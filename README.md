@@ -3,4 +3,3 @@ MAX-Inventory is a Unity Engine extension that provides a way to create and mana
 
 ![alt text](demo1.png)
 ![alt text](demo2.png)
-![alt text](demo3.png)
