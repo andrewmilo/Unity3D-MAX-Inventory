@@ -4,5 +4,5 @@ MAX-Inventory is a Unity Engine extension that provides a way to create and mana
 ## Game View
 ![alt text](demo1.png)
 
-## Editor View
+## Editor/Developer's View
 ![alt text](demo2.png)
